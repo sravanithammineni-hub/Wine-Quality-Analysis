@@ -30,26 +30,27 @@ The project is implemented in **Python** using a Jupyter Notebook: `wine quality
 │   └── Wine_Quality.ipynb
 │
 ├── outputs/
-│   ├── 
-│   ├── .png
-│   ├── .png
-│   └── .png
-│   ├── .png
-│   ├── .png
-│   ├── .png
-│   └── .png
-│   ├── .png
-│   ├── .png
-│   ├── .png
-│   └── .png
-│   ├── .png
-│   ├── .png
-│   ├── .png
-│   └── .png
+│   ├── Average Feature Values by Wine Quality.png
+│   ├── Box Plot of Fixed Acidity by Quality.png
+│   ├── Count_Plot_of_wine_quality.png
+│   ├── Heatmap of Feature Correlations.png
+│   ├── Histogram of PH.png
+│   ├── Histogram of alcohol.png
+│   ├── Histogram of chlorides.png
+│   ├── Histogram of citric.acid.png
+│   ├── Histogram of density.png
+│   ├── Histogram of free.sulfur.dioxide.png
+│   ├── Histogram of residual.sugar.png
+│   ├── Histogram of sulphates.png
+│   ├── Histogram of total.sulfur.dioxide.png
+│   ├── Histogram of volatile.acidity.png
+│   ├── Line Plot of Alcohol Content by Quality.png
+│   ├── Pair Plot of Features Colored by Quality.png
+│   ├── Scatter Plot of Alcohol vs Quality.png
+│   ├── Violin Plot of Alcohol Content by Quality.png
 │
 ├── README.md
 │
-
 ```
 
 ---
