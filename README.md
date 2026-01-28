@@ -30,13 +30,26 @@ The project is implemented in **Python** using a Jupyter Notebook: `wine quality
 │   └── Wine_Quality.ipynb
 │
 ├── outputs/
-│   ├── count_plot_quality.png
-│   ├── correlation_heatmap.png
-│   ├── alcohol_vs_quality.png
-│   └── eda_visualizations.png
+│   ├── 
+│   ├── .png
+│   ├── .png
+│   └── .png
+│   ├── .png
+│   ├── .png
+│   ├── .png
+│   └── .png
+│   ├── .png
+│   ├── .png
+│   ├── .png
+│   └── .png
+│   ├── .png
+│   ├── .png
+│   ├── .png
+│   └── .png
 │
 ├── README.md
 │
+
 ```
 
 ---
